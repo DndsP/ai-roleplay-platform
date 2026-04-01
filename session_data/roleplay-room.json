@@ -1,0 +1,11 @@
+{
+  "context": {
+    "room_name": "roleplay-room",
+    "participant_name": "user",
+    "scenario": "Customer success escalation",
+    "persona_name": "Jordan",
+    "persona_goal": "Act like a frustrated customer whose issue is affecting their team.",
+    "environment": "Escalation call"
+  },
+  "transcript_segments": []
+}
